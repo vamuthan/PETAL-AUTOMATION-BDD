@@ -1,0 +1,60 @@
+{
+  "baseTestTestData": {
+    "pageURLValue": "petal-health",
+    "optionContainerSize": 2
+  },
+  "aiModuleTestData": {
+    "pageURLValue": "/technology/artificial-intelligence",
+    "firstPointHeading": "The potential of Petal's Data and AI",
+    "secondPointHeading": "Optimization of Physician Scheduling",
+    "thirdPointHeading": "Predictive Patient Appointment Scheduling",
+    "fourthPointHeading": "Forecast of Clinical Capacity"
+  },
+  "blogModuleTestData": {
+    "activePaginationElements": 2,
+    "blogPostHeadingValue": "Meet Four Inspiring Women at Petal"
+  },
+  "careerModuleTestData": {
+    "pageURLValue": "company/careers",
+    "jobOpeningsCount": 10
+  },
+  "communicationModuleTestData": {
+    "pageURLValue": "communication-center"
+  },
+  "experienceSupportModuleTestData": {
+    "pageURLValue": "customer-success/experience-support",
+    "procedureContainer": ["Analyze your needs", "Data Collection and Analysis", "Platform Configuration",
+      "Super-User and Project Manager Training", "Go live", "Adjustments and Change Management Assistance"]
+  },
+  "onCallSchedulingTestData": {
+    "pageURLValue": "on-call-scheduling"
+  },
+  "partnershipModuleTestData": {
+    "pageURLValue": "company/partnerships",
+    "partnersNameContainer": ["Microsoft", "Technation Canada", "Dedalus", "Zorgi Smarter Care"]
+  },
+  "secureMessagingTestData": {
+    "pageURLValue": "secure-messaging"
+  },
+  "securityModuleTestData": {
+    "pageURLValue": "technology/security",
+    "firstPointHeading": "Security",
+    "secondPointHeading": "Data Ownership and Residency",
+    "thirdPointHeading": "Data Encryption",
+    "fourthPointHeading": "Compliance With Privacy and Security Standards",
+    "fifthPointHeading": "PIPEDA",
+    "sixthPointHeading": "GDPR",
+    "seventhPointHeading": "Platform Access Management",
+    "eightPointHeading": "Personal Health Information",
+    "ninthPointHeading": "A Highly Secure Cloud Environment",
+    "tenthPointHeading": "Proven Security Measures",
+    "eleventhPointHeading": "Incident Management"
+  },
+  "testimonialsTestData": {
+    "customerSuccessSubmoduleContainerSize": 2,
+    "pageURLValue": "customer-success/testimonials",
+    "testimonialsNamesContainer": ["Groupe santé CHC",
+      "Vancouver General Hospital", "Jewish General Hospital", "CHUM", "Vitalité Health Network",
+      "Quebec Ministry of Health and Social Services", "Centre hospitalier Le Vinatier"]
+  }
+}
