@@ -2,7 +2,7 @@
 
 
 Description
-This project is performs UI automation on "Petal.com"; majorly focusing on important modules.
+This project performs UI automation on "Petal.com"; majorly focusing on important modules.
 
 How to run the project
 Clone the repository.
